@@ -42,7 +42,7 @@ A Confusion Matrix is plotted to visualize the model's performance in distinguis
 
 The final model achieved an accuracy of approximately 89% on the test set, demonstrating its effectiveness in classifying movie review sentiment. The confusion matrix provides a clear view of the model's true positive and true negative predictions.
 
-![Demo Screenshot](segment.jpg)
+![Demo Screenshot](confusion matrix.png)
 
 🛠️ Technologies Used
 
